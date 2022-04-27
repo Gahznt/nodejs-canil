@@ -21,4 +21,4 @@ server.use((req, res)=>{
     res.send('Página não encontrada');
 })
 
-server.listen(process.env.SERVER_PORT);
+server.listen(process.env.PORT);
