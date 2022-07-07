@@ -1,5 +1,5 @@
 # nodejs-canil
-Projeto pessoal para pratica de NodeJS
+Projeto institucional com informações sobre animais para prática de NodeJS
 
 ### Pré requisitos Globais (Nodemon, Typescript e ts-node)
 `npm install -g nodemon typescript ts-node`
